@@ -9,11 +9,11 @@ The **so_long** project is a small 2D top-down game built in C using **MiniLibX*
 Working on **so_long** taught me how to build a basic game loop, handle keyboard events, and render 2D sprites and windows using MiniLibX. I also practiced validating map files carefully (walls, rectangular shape, required elements, and reachable paths), using the **Flood Fill** algorithm to verify path validity, managing memory cleanly, and following the Norminette.
 
 ### 🖼️ Gameplay & Output
-![The Wizard Gameplay](./images/gameplay.jpg)
-*2D map rendering with the player, collectibles, walls, and exit in MiniLibX.*[cite: 5]
+![The Wizard Gameplay](./images/image1.jpg)
+*2D map rendering with the player, collectibles, walls, and exit in MiniLibX.*
 
-![Terminal Move Counter & Win Message](./images/win_terminal.jpg)
-*Move counter and win message (`CONGRATS.YOU WIN`) printed in the terminal.*[cite: 4]
+![Terminal Move Counter & Win Message](./images/image2.jpg)
+*Move counter and win message (`CONGRATS.YOU WIN`) printed in the terminal.*
 
 ## ⚙️ How to play
 1. `cd so_long` (or navigate to the project directory)
