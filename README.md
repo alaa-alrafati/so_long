@@ -10,9 +10,11 @@ Working on **so_long** taught me how to build a basic game loop, handle keyboard
 
 ### 🖼️ Gameplay & Output
 ![The Wizard Gameplay](./images/image1.jpg)
-*2D map rendering with the player, collectibles, walls, and exit in MiniLibX.*
+
+*2D map rendering with the player, collectibles, walls, and exit(Door) in MiniLibX.*
 
 ![Terminal Move Counter & Win Message](./images/image2.jpg)
+
 *Move counter and win message (`CONGRATS.YOU WIN`) printed in the terminal.*
 
 ## ⚙️ How to play
