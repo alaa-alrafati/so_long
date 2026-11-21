@@ -38,8 +38,6 @@ Working on **so_long** taught me how to build a basic game loop, handle keyboard
 
 ## 🔗 Resources
 - [MiniLibX Documentation & Guides](https://harm-smits.github.io/42docs/libs/minilibx)
-- [Flood Fill Algorithm Overview](https://en.wikipedia.org/wiki/Flood_fill)
-- [2D Grid & Pathfinding Basics](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 - [42 Norminette](https://github.com/42School/norminette)
 
 ### 🤖 AI Usage
